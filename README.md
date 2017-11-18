@@ -6,3 +6,7 @@ Simple application of computer vision on TUI (Tangible User Interface). Use imag
 [reacTIVision 1.5.1](http://reactivision.sourceforge.net/)
 
 [TUIO library](https://www.tuio.org/?software)
+
+## Arduino wiring:
+
+![Arduino + servo motor](https://github.com/waldooo/webcam-controlled-servo-TUI/blob/master/images/TUIO_servo_bb.png)
